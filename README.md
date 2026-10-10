@@ -20,11 +20,13 @@ Dataset
 
 Tools and Technologies
 
-- Python
+- python
 - Pandas
 - NumPy
-- Matplotlib
 - Seaborn
+- Power BI
+- DAX
+- Excel
 - Google Colab
 
 Project Workflow
